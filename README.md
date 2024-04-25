@@ -11,7 +11,7 @@
   <samp>Let's explore the world of technology together!</samp>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=onedark)](https://github.com/KennyNeutron/github-profile-trophy)
 
