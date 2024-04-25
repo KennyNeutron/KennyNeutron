@@ -29,12 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennyneutron&theme=dark" alt="GitHub Streak Stats by kennyneutron" style="width: 50%; max-width: 800px;" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>
 
 <!-- About Me -->
 ## About Me 🧠
