@@ -41,13 +41,26 @@
 ## My Journey 🚀
 My journey as an inventor and entrepreneur has been marked by a relentless pursuit of innovation and a passion for pushing the boundaries of what's possible. From my early beginnings, I've always been driven by a curiosity to explore and create, leading me to craft innovative projects that have garnered recognition and acclaim.
 
-**Early Beginnings:** My fascination with invention ignited during my high school years, where I embarked on a path of discovery that would shape my future endeavors. It was during this time that I conceived groundbreaking projects like the Goat Manure Battery and the Rain Powered Generator, which not only showcased my inventive spirit but also laid the foundation for my journey ahead.
+**Early Years:**
+Kenny Neutron, born on May 28, 1997, entered the world with an innate curiosity that would shape his future endeavors. Growing up, he discovered a profound passion for invention, an inclination that would define his life's trajectory.
 
-**Professional Ventures:** After pursuing a Bachelor of Science in Electronics Engineering, I transitioned into the professional world, where I continued to channel my passion for innovation. As an Application Engineer, I contributed to various projects, honing my skills and expertise while always striving to push the boundaries of what's possible in the realm of technology.
+**High School Innovations:**
+Kenny's journey as an inventor began to gain momentum during his high school years. His exceptional aptitude for applied science earned him a coveted spot in the special science curriculum, setting the stage for a series of groundbreaking inventions. In 2011, the Goat Manure Battery marked his first notable invention, followed by the Rain Powered Generator in 2013. The latter not only garnered acclaim at the school level but also qualified for the prestigious 2013 Intel Science and Technology Fair, where it emerged as one of the Top 3 best research studies for applied science.
 
-**Entrepreneurship:** In 2022, I co-founded SIRENA AI, a startup dedicated to leveraging technology for a critical cause—drowning detection. This venture allowed me to combine my passion for innovation with a commitment to making a positive impact on society. Building on this foundation, I founded PROFtech in 2023, a company driven by a vision to pioneer professional technology solutions. With PROFtech, I aim to revolutionize the world of technology, one invention at a time, and to shape the future through innovative solutions that make a meaningful difference in people's lives.
+**College Pursuits:**
+Undeterred by success, Kenny pursued a Bachelor of Science in Electronics Engineering in college. In 2016, during his second year, he presented the External Combustion Engine Generator, securing the most innovative award. His inventive spirit reached new heights in 2017 with the Electronic Mosquito Repellent Bracelet, earning him the title of Regional winner at the 2017 Regional Invention Contest.
 
-My journey is a testament to the power of passion, perseverance, and a relentless drive to innovate. As I continue to chart new territories and explore uncharted horizons, I remain committed to pushing the boundaries of what's possible and shaping a future where technology serves as a catalyst for positive change.
+**National Recognition and Professional Journey:**
+Kenny's talents transcended regional boundaries, leading him to the National Invention Contest in 2018, where he clinched the 3rd Placer position. Armed with a degree in Electronics Engineering earned in March 2019, Kenny ventured into the professional realm as an Application Engineer from 2019 to 2022.
+
+**Continued Innovation:**
+In 2021, Kenny, now a professional, continued to make waves by securing the 3rd Placer in the regional invention contest for professionals with the AIDme Smart Watch—a testament to his unwavering commitment to innovation.
+
+**Ventures Beyond:**
+Kenny's passion for technology with a purpose led to the co-founding of SIRENA AI in 2022, a startup dedicated to drowning detection. In 2023, he embarked on a new chapter by founding PROFtech, a company driven by inventive solutions and a commitment to shaping the future of technology.
+
+**Legacy and Future:**
+Kenny Neutron's journey is not just a personal narrative but a testament to the power of innovation and the pursuit of excellence. As the founder of PROFtech, Kenny continues to lead the charge, steering the company toward new heights of creativity and technological advancement, leaving an indelible mark on the world of invention and entrepreneurship
 
 <!-- What I Do -->
 ## What I Do 💡
