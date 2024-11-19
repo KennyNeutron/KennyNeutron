@@ -1,4 +1,5 @@
 <!-- Header -->
+<!--
 <h2 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h2>
 
 <p align="center">
@@ -6,7 +7,7 @@
   <br>
   <samp>Let's explore the world of technology together!</samp>
 </p>
-
+-->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
@@ -66,60 +67,90 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennyneutron&theme=dark" alt="GitHub Streak Stats by kennyneutron" style="width: 50%; max-width: 800px;" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>-->
+<!-- Connect with Me -->
+## Connect with Me 🌐
+Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
 
 <!-- What I Do -->
-## 🌟 What I Do 💡
+## 🌟 What I Do
 
 I transform ideas into reality through the art of embedded systems, crafting seamless integrations of hardware and software. My expertise lies in:
 
-- ⚙️ **Embedded Systems:** Breathing life into microcontrollers (ATmega, PIC) with precision programming in C, C++, and Assembly.
+- ⚙️ **Embedded Systems:** Breathing life into microcontrollers (ATmega, PIC) with precision programming in C, C++,Assembly(ASM), & GPL.
 
 - 💻 **Code Wizardry:** Writing elegant, efficient, and scalable code that powers innovation.
 
 - 📐 **PCB Design:** Designing multi-layered (1-20 layers) PCBs, merging functionality with finesse.
 
-- 📦 **Product Development:** Melding electronics with product casing designs in SketchUp for holistic solutions.
+- 📦 **Product Development:** Melding electronics with product casing designs in SketchUp for holistic solutions..
 
+- **🖥️📲 Software Development**: Python, C#, ProcessingIDE, MITAI, Java, Kotlin, & Dart.
+  - **🖥️ Desktop Applications**:  Crafting robust, user-friendly applications to enhance productivity and solve complex problems. 
+  - **📲 Mobile Applications**:   Building intuitive, feature-rich apps that deliver seamless user experiences on the go.
+    
 - 🎮 **Simulations:** Bringing circuits to life in virtual worlds using tools like Proteus.
 
 - 🚀 **Innovation:** From locking systems powered by fingerprints to networked systems crunching data, I embrace challenges that shape the future.
 
-Let’s build something extraordinary together! ✨
+
+## 🌟 Career Profile
+- Certified Arduino Programmer (Arduino CC, Italy) [Verify Certificate](https://certifications.arduino.cc/certificate/8a62aade-ed14-486f-b801-875845a5f9aa)
+- On-Call Software Engineer- BRINT Industrial Development Corporation (2024)
+- - Tech-Lead and FounderPROFtech Consumer Electronics (2023)
+- Embedded Systems Engineer- GER-PER Engineering (2019-2022)
+- Co-Founder- [SIRENA AI](https://www.facebook.com/Sirena.fb) (2021)
+- SHS Teacher- [Notre Dame of Kidapawan College](https://ndkc.edu.ph) (2021-2022)
+
+## 🎓 Education
+- 2019 (Graduated) -BS Electronics Engineering
+- 2014 (Graduated) -High School(Special Science Curriculum)-Researcher of the Year
+- 2010 (Graduated) -Elementary
+
 
 <!-- IDEs and CAD Software I Use -->
 ## IDEs and CAD Software I Use 💻🛠️
 Here are the IDEs and CAD software I use for my projects:
+  - Visual Studio Code (VSC)
+  - Arduino IDE
+  - Android Studio
+  - KiCAD
+  - MPLab
+  - Processing IDE
+  - Flowcode
+  - EagleCAD
+  - Target3001!
+  - Proteus
+  - Sketchup
 
-- Visual Studio Code (VSC)
-- Arduino IDE
-- Android Studio
-- KiCAD
-- MPLab
-- Processing IDE
-- Flowcode
-- EagleCAD
-- Target3001!
-- Proteus
-- Sketchup
+## Achievements 🏆🥇🥈🥉
 
-<!-- Let's Collaborate -->
-## Let's Collaborate 🤝
-I'm always open to collaboration and new opportunities. Feel free to reach out!
+**PROFESSIONAL:**
+- **3rd Placer-** Department of Science and Technology Regional Invention Contest 2021 (General Santos City)
+- **Graduate-** Batch 4 Mindanao Startup Challenge 2022 (MSU-IIT, Iligan City)
+- **Finalist-** (1st Runner-Up) – Philippine Startup Challenge- Regional Level 2022
+- **Finalist-** Philippine Startup Challenge- National Level 2022
+- **Finalist** (2nd Runner-Up)- Qompete Technopreneurs Challenge 2022
 
-<!-- Connect with Me -->
-## Connect with Me 🌐
-Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
-
+**STUDENT:**
+- **3rd Placer-** Department of Science and Technology National Invention Contest 2018 (Pasay City)  
+- **1st Placer-** Department of Science and Technology Regional Invention Contest 2017 (General Santos City)  
+- **Most Innovative Research-** Department of Science and Technology (DOST)- Regional Invention Contest 2016  
+- **Representative-** DOST- Regional Invention Contest under Creative Research (2014, 2016, 2017, 2021)  
+- **Best Individual Physical Science Research-** 2013 [Intel](https://www.intel.com/content/www/us/en/homepage.html) National Science and Technology Fair (Tagaytay City)  
+- **1st Placer-** 2013 Regional Integrated Competition- Applied Science Research 2013 (General Santos City)  
+- **1st Placer-** Division Level Science Fair for Applied Science Research (2011, 2012, 2013)  
+- **1st Placer-** School Level Science Fair for Applied Science Research (2011, 2012, 2013)  
+- **Researcher of the Year** (2011, 2012, 2013)
 
 <!-- About Me 
 ## About Me 🧠
 - 🛠️ Inventor Extraordinaire
 - 💼 Founder of PROFtech
-- 🎓 Bachelor of Science in Electronics Engineering -->
-
+- 🎓 Bachelor of Science in Electronics Engineering
 <p align="center">
   <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
 </p>
+-->
 
 <!-- My Journey -->
 ## My Journey 🚀
@@ -145,6 +176,11 @@ Kenny's passion for technology with a purpose led to the co-founding of SIRENA A
 
 **Legacy and Future:**  
 Kenny Neutron's journey is not just a personal narrative but a testament to the power of innovation and the pursuit of excellence. As the founder of PROFtech, Kenny continues to lead the charge, steering the company toward new heights of creativity and technological advancement, leaving an indelible mark on the world of invention and entrepreneurship
+
+<!-- Let's Collaborate -->
+## Let's Collaborate 🤝
+I'm always open to collaboration and new opportunities. Feel free to reach out!
+Let’s build something extraordinary together! ✨
 
 <!-- Footer -->
 <p align="center">
