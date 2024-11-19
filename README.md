@@ -9,6 +9,9 @@
 </p>
 -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
+<p align="left">
+  <img width="880" src="Banner.jpg" alt="Kenny Neutron">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
 
