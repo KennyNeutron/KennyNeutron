@@ -1,8 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
-</p>
-
 <h1 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h1>
 
 <p align="center">
@@ -58,8 +54,6 @@
   </a>
 </p>
 
-
-
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1; max-width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyneutron&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages by kennyneutron" style="width: 50%; max-width: 400px;" />
@@ -72,6 +66,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennyneutron&theme=dark" alt="GitHub Streak Stats by kennyneutron" style="width: 50%; max-width: 800px;" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>-->
+
+<p align="center">
+  <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
+</p>
 
 <!-- About Me -->
 ## About Me 🧠
