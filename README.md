@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width="950" src="me.png" alt="Kenny Neutron">
+  <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
 </p>
 
 <h1 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h1>
