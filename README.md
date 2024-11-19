@@ -9,7 +9,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=onedark)](https://github.com/KennyNeutron/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
