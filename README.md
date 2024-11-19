@@ -60,17 +60,18 @@
 
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1; max-width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyneutron&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages by kennyneutron" style="width: 50%; max-width: 400px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennyNeutron&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages by KennyNeutron" style="width: 50%; max-width: 400px;" />
     </div>
     <div style="flex: 1; max-width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kennyneutron&show_icons=true&locale=en&theme=dark" alt="GitHub Stats by kennyneutron" style="width: 50%; max-width: 400px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&show_icons=true&locale=en&theme=dark" alt="GitHub Stats by KennyNeutron" style="width: 50%; max-width: 400px;" />
     </div>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennyneutron&theme=dark" alt="GitHub Streak Stats by kennyneutron" style="width: 50%; max-width: 800px;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=dark" alt="GitHub Streak Stats by KennyNeutron" style="width: 50%; max-width: 800px;" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>-->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>
 <!-- Connect with Me -->
+
 ## Connect with Me 🌐
 Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
 
