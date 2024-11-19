@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h1>
+<h2 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h2>
 
 <p align="center">
   <samp>Hello there! I'm Kenny Neutron, an inventor, entrepreneur, and passionate advocate for innovation.</samp>
