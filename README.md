@@ -99,7 +99,7 @@ I transform ideas into reality through the art of embedded systems, crafting sea
 ## 🌟 Career Profile
 - Certified Arduino Programmer (Arduino CC, Italy) [Verify Certificate](https://certifications.arduino.cc/certificate/8a62aade-ed14-486f-b801-875845a5f9aa)
 - On-Call Software Engineer- BRINT Industrial Development Corporation (2024)
-- - Tech-Lead and FounderPROFtech Consumer Electronics (2023)
+- Tech-Lead and FounderPROFtech Consumer Electronics (2023)
 - Embedded Systems Engineer- GER-PER Engineering (2019-2022)
 - Co-Founder- [SIRENA AI](https://www.facebook.com/Sirena.fb) (2021)
 - SHS Teacher- [Notre Dame of Kidapawan College](https://ndkc.edu.ph) (2021-2022)
