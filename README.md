@@ -67,15 +67,59 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>-->
 
-<p align="center">
-  <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
-</p>
+<!-- What I Do -->
+## 🌟 What I Do 💡
 
-<!-- About Me -->
+I transform ideas into reality through the art of embedded systems, crafting seamless integrations of hardware and software. My expertise lies in:
+
+- ⚙️ **Embedded Systems:** Breathing life into microcontrollers (ATmega, PIC) with precision programming in C, C++, and Assembly.
+
+- 💻 **Code Wizardry:** Writing elegant, efficient, and scalable code that powers innovation.
+
+- 📐 **PCB Design:** Designing multi-layered (1-20 layers) PCBs, merging functionality with finesse.
+
+- 📦 **Product Development:** Melding electronics with product casing designs in SketchUp for holistic solutions.
+
+- 🎮 **Simulations:** Bringing circuits to life in virtual worlds using tools like Proteus.
+
+- 🚀 **Innovation:** From locking systems powered by fingerprints to networked systems crunching data, I embrace challenges that shape the future.
+
+Let’s build something extraordinary together! ✨
+
+<!-- IDEs and CAD Software I Use -->
+## IDEs and CAD Software I Use 💻🛠️
+Here are the IDEs and CAD software I use for my projects:
+
+- Visual Studio Code (VSC)
+- Arduino IDE
+- Android Studio
+- KiCAD
+- MPLab
+- Processing IDE
+- Flowcode
+- EagleCAD
+- Target3001!
+- Proteus
+- Sketchup
+
+<!-- Let's Collaborate -->
+## Let's Collaborate 🤝
+I'm always open to collaboration and new opportunities. Feel free to reach out!
+
+<!-- Connect with Me -->
+## Connect with Me 🌐
+Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
+
+
+<!-- About Me 
 ## About Me 🧠
 - 🛠️ Inventor Extraordinaire
 - 💼 Founder of PROFtech
-- 🎓 Bachelor of Science in Electronics Engineering
+- 🎓 Bachelor of Science in Electronics Engineering -->
+
+<p align="center">
+  <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
+</p>
 
 <!-- My Journey -->
 ## My Journey 🚀
@@ -101,34 +145,6 @@ Kenny's passion for technology with a purpose led to the co-founding of SIRENA A
 
 **Legacy and Future:**  
 Kenny Neutron's journey is not just a personal narrative but a testament to the power of innovation and the pursuit of excellence. As the founder of PROFtech, Kenny continues to lead the charge, steering the company toward new heights of creativity and technological advancement, leaving an indelible mark on the world of invention and entrepreneurship
-
-<!-- What I Do -->
-## What I Do 💡
-At PROFtech, we're on a mission to revolutionize technology, one invention at a time.
-
-
-<!-- IDEs and CAD Software I Use -->
-## IDEs and CAD Software I Use 💻🛠️
-Here are the IDEs and CAD software I use for my projects:
-
-- Arduino IDE
-- MPLab
-- Processing IDE
-- Flowcode
-- Android Studio
-- KiCAD
-- EagleCAD
-- Target3001!
-- Proteus
-- Sketchup
-
-<!-- Connect with Me -->
-## Connect with Me 🌐
-Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
-
-<!-- Let's Collaborate -->
-## Let's Collaborate 🤝
-I'm always open to collaboration and new opportunities. Feel free to reach out!
 
 <!-- Footer -->
 <p align="center">
