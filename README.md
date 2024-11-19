@@ -79,7 +79,7 @@ Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&l
 
 I transform ideas into reality through the art of embedded systems, crafting seamless integrations of hardware and software. My expertise lies in:
 
-- ⚙️ **Embedded Systems:** Breathing life into microcontrollers (ATmega, PIC) with precision programming in C, C++,Assembly(ASM), & GPL.
+- ⚙️ **Embedded Systems:** Breathing life into microcontrollers (ATmega, PIC) with precision programming in C, C++, Assembly(ASM), & GPL.
 
 - 💻 **Code Wizardry:** Writing elegant, efficient, and scalable code that powers innovation.
 
@@ -90,6 +90,10 @@ I transform ideas into reality through the art of embedded systems, crafting sea
 - **🖥️📲 Software Development**: Python, C#, ProcessingIDE, MITAI, Java, Kotlin, & Dart.
   - **🖥️ Desktop Applications**:  Crafting robust, user-friendly applications to enhance productivity and solve complex problems. 
   - **📲 Mobile Applications**:   Building intuitive, feature-rich apps that deliver seamless user experiences on the go.
+ 
+- 🔌 **Engineering Consumer Electronics Products:**
+    - Designing functional, innovative consumer electronics, from concept to production.
+    - Ensuring optimized performance, user-centric features, and manufacturability.
     
 - 🎮 **Simulations:** Bringing circuits to life in virtual worlds using tools like Proteus.
 
