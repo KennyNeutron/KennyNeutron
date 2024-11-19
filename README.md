@@ -125,6 +125,12 @@ Here are the IDEs and CAD software I use for my projects:
   - Proteus
   - Sketchup
 
+<!-- Rates -->
+## Professional Rates
+- **Consumer Projects:** $15-$30/hr
+- **Industrial Projects:** $30-$80/hr
+
+
 ## Achievements 🏆🥇🥈🥉
 
 **PROFESSIONAL:**
