@@ -146,6 +146,14 @@ Click any of the following to connect with me
   <a href="https://www.facebook.com/kennyneutron2" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="facebook" width="35" height="35" style="margin-left: 20px;"/>
   </a>
+
+  <a href="https://t.me/KennyNeutron" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="35" height="35" style="margin-left: 20px;"/>
+  </a>
+
+  <a href="https://t.me/KennyNeutron" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" width="35" height="35" style="margin-left: 20px;"/>
+  </a>
 </p>
 <!--
 Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
