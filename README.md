@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="[https://onecompiler.com/assembly" target="_blank" rel="noreferrer">
+  <a href="https://onecompiler.com/assembly" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="asm" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
