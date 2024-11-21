@@ -151,8 +151,12 @@ Click any of the following to connect with me
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="35" height="35" style="margin-left: 20px;"/>
   </a>
 
-  <a href="https://t.me/KennyNeutron" target="_blank">
+  <a href="https://wa.me/qr/JT54GPTKZLMBG1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" width="35" height="35" style="margin-left: 20px;"/>
+  </a>
+
+  <a href="https://discordapp.com/users/neutron7643" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/580/137/png-transparent-discord-logo-thumbnail.png" alt="discord" width="35" height="35" style="margin-left: 20px;"/>
   </a>
 </p>
 <!--
