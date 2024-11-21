@@ -140,25 +140,27 @@
 Click any of the following to connect with me
 <p>
   <a href="mailto:kennyneutron.hex@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/512px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmail" width="36" height="27"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail" width="36" height="27" style="margin-right: 15px; vertical-align: middle;"/>
   </a>
 
   <a href="https://www.facebook.com/kennyneutron2" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="facebook" width="35" height="35" style="margin-left: 20px;"/>
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="35" height="35" style="margin-right: 15px; vertical-align: middle;"/>
   </a>
 
   <a href="https://t.me/KennyNeutron" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="35" height="35" style="margin-left: 20px;"/>
+    <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="35" height="35" style="margin-right: 15px; vertical-align: middle;"/>
   </a>
 
   <a href="https://wa.me/qr/JT54GPTKZLMBG1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" width="35" height="35" style="margin-left: 20px;"/>
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="35" height="35" style="margin-right: 15px; vertical-align: middle;"/>
   </a>
 
   <a href="https://discordapp.com/users/neutron7643" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/580/137/png-transparent-discord-logo-thumbnail.png" alt="discord" width="35" height="35" style="margin-left: 20px;"/>
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="35" height="35" style="vertical-align: middle;"/>
   </a>
 </p>
+
+
 <!--
 Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
 -->
