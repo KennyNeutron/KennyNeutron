@@ -136,8 +136,20 @@
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>
 <!-- Connect with Me -->
 
-## Connect with Me 🌐
+## Connect with Me ✉️
+Click any of the following to connect with me
+<p>
+  <a href="mailto:kennyneutron.hex@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/512px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmail" width="36" height="27"/>
+  </a>
+
+  <a href="https://www.facebook.com/kennyneutron2" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="facebook" width="35" height="35" style="margin-left: 20px;"/>
+  </a>
+</p>
+<!--
 Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
+-->
 
 <!-- What I Do -->
 ## 🌟 What I Do
