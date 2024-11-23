@@ -282,7 +282,7 @@ Kenny's passion for technology with a purpose led to the co-founding of SIRENA A
 Kenny Neutron's journey is not just a personal narrative but a testament to the power of innovation and the pursuit of excellence. As the founder of PROFtech, Kenny continues to lead the charge, steering the company toward new heights of creativity and technological advancement, leaving an indelible mark on the world of invention and entrepreneurship
 
 <!-- Let's Collaborate -->
-##Let's Collaborate 🤝
+## Let's Collaborate 🤝
 I'm always open to collaboration and new opportunities. Feel free to reach out!
 Let’s build something extraordinary together! ✨
 
