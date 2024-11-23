@@ -44,8 +44,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/java" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="java" width="35" height="35"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
