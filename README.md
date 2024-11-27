@@ -237,7 +237,7 @@
     <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="35" height="35"/>
   </a>
   <a href="https://www.autodesk.com/asean/products/fusion-360" target="_blank" rel="noreferrer">
-    <img src="" alt="fusion360" width="35" height="35"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/autodesk_logo.png" alt="fusion360" width="35" height="35"/>
   </a>
   
 </p>
