@@ -80,29 +80,38 @@
 </p>
 
 <p align="left">
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+  
+  </a>
+</p>
+
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
   </a>
   <a href="https://processing.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="35" height="35"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git" width="40" height="40"/>
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git" width="35" height="35"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="35" height="35"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35"/>
   </a>
 </p>
 
