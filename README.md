@@ -10,7 +10,7 @@
 -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
 <p align="left">
-  <img width="880" src="Banner.jpg" alt="Kenny Neutron">
+  <img width="880" src="src/Banner.jpg" alt="Kenny Neutron">
 </p>
 
 <p align="left">
@@ -83,8 +83,26 @@
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
   </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongoDB" width="35" height="35"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mySQL" width="35" height="35"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="35" height="35"/>
+  </a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="35" height="35"/>
+  </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="35" height="35"/>
+  </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-  
+      <img src="src/FlaskLogo.png" alt="Flask" width="35" height="35"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastAPI" width="35" height="35"/>
   </a>
 </p>
 
