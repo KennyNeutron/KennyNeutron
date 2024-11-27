@@ -107,6 +107,34 @@
 </p>
 
 <p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="35" height="35"/>
+  </a>
+  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" width="35" height="35"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/>
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="35" height="35"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="35" height="35"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="35" height="35"/>
+  </a>
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.scorchsoft.com/public/capabilities/head/react-native-logo-square.webp" alt="ReactNative" width="35" height="35"/>
+  </a>
+</p>
+
+
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
   </a>
