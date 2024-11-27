@@ -164,6 +164,15 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
   </a>
+  <a href="https://docs.arduino.cc/software/ide/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino2ide" width="35" height="35"/>
+  </a>
+  <a href="https://atom-editor.cc" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="35" height="35"/>
+  </a>
+  <a href="https://www.sublimetext.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetexr" width="35" height="35"/>
+  </a>
   <a href="https://processing.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="35" height="35"/>
   </a>
@@ -172,15 +181,6 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git" width="35" height="35"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="35" height="35"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35"/>
