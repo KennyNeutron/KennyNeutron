@@ -133,6 +133,32 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="35" height="35"/>
+  </a>
+  <a href="https://www.apple.com/ph/macos/macos-sequoia/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Mac" width="35" height="35"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+  </a>
+  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="35" height="35"/>
+  </a>
+  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kalilinux" width="35" height="35"/>
+  </a>
+  <a href="https://archlinux.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="35" height="35"/>
+  </a>
+  <a href="https://www.debian.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" width="35" height="35"/>
+  </a>
+  <a href="https://www.raspbian.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-plain.svg" alt="raspbian" width="35" height="35"/>
+  </a>
+</p>
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
