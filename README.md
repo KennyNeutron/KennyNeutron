@@ -135,19 +135,19 @@
 
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="35" height="35"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="35" height="35"/>
   </a>
   <a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="35" height="35"/>
   </a>
   <a href="https://www.flowcode.co.uk" target="_blank" rel="noreferrer">
-    <img src="https://www.flowcode.co.uk/images/fc-v10-mainlogo-02.png" alt="flowcode" width="180" height="30"/>
+    <img src="https://www.flowcode.co.uk/images/fc-v10-mainlogo-02.png" alt="flowcode" width="155" height="30"/>
   </a>
 </p>
 
@@ -159,19 +159,19 @@
     <img src="https://avatars.githubusercontent.com/u/3374914" alt="kicad" width="40" height="40"/>
   </a>
   <a href="http://eagle.autodesk.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/12681262/49792564-11f53780-fd59-11e8-8131-9b3e0f36164d.png" alt="eaglecad" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/12681262/49792564-11f53780-fd59-11e8-8131-9b3e0f36164d.png" alt="eaglecad" width="35" height="35"/>
   </a>
   <a href="https://ibfriedrich.com/en/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" alt="target3001" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" alt="target3001" width="35" height="35"/>
   </a>
   <a href="https://www.labcenter.com" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="60" height="40"/>
+    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="50" height="35"/>
   </a>
   <a href="https://fritzing.org" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="fritzing" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="fritzing" width="35" height="35"/>
   </a>
   <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="35" height="35"/>
   </a>
 </p>
 
