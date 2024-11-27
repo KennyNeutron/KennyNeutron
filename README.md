@@ -287,35 +287,55 @@ Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&l
 -->
 
 <!-- What I Do -->
-## 🌟 What I Do
+---
 
-I transform ideas into reality through the art of embedded systems, crafting seamless integrations of hardware and software. My expertise lies in:
+🌟 **What I Do**  
+I transform ideas into reality through the art of embedded systems, software development, and web solutions. My expertise lies in:  
 
-- ⚙️ **Embedded Systems:** Breathing life into microcontrollers (ATmega, PIC) with precision programming in C, C++, Assembly(ASM), & GPL.
+### ⚙️ **Embedded Systems**  
+- **Hardware**: Breathing life into microcontrollers (PIC, Atmel, STM32, ESP32, Nordic SoCs) with precision and expertise in PCB design (1-20 layers) using tools like KiCad and Eagle.  
+- **Firmware**: Programming in Assembly (ASM), C, C++, MicroPython, and GPL to craft seamless integrations of hardware and software.  
+- **3D Design**: Merging electronics with product casing designs using SketchUp and Fusion360.  
+- **Simulations**: Virtual prototyping with tools like Proteus to bring circuits to life.  
 
-- 💻 **Code Wizardry:** Writing elegant, efficient, and scalable code that powers innovation.
+### 💻 **Software Development**  
+- **Desktop Applications**:  
+  - Crafting robust, user-friendly solutions using Python (PyQT), C#, and Processing (ProcessingIDE).  
+- **Mobile Applications**:  
+  - Building intuitive apps with Flutter, Java, Kotlin, XML, Swift, and ReactNative.  
+  - Database integration with Firebase, MySQL, PostgreSQL, MongoDB, AWS DynamoDB, Couchbase, and MITAI WebDB.  
 
-- 📐 **PCB Design:** Designing multi-layered (1-20 layers) PCBs, merging functionality with finesse.
+### 🌐 **Web Development**  
+- **Front-End Development**:  
+  - Core Technologies: HTML, CSS, JavaScript (JS), TypeScript.  
+  - Frameworks & Libraries: React.js, Vue.js.  
+  - Styling Tools: Tailwind CSS, Bootstrap.  
+  - Data-Driven Apps: Streamlit.  
+- **Back-End Development**:  
+  - Frameworks: Django, Flask, Node.js, FastAPI, PHP (Laravel).  
+- **Database Solutions**:  
+  - NoSQL: Firebase, MongoDB.  
+  - SQL: PostgreSQL, MySQL.  
+- **Hosting Solutions**:  
+  - Cloud Platforms: AWS, Oracle Cloud Infrastructure (OCI), or other client-preferred platforms.  
+- **Other Technologies**:  
+  - Oracle APEX for low-code applications.
+  
+### 📦 **Product Development**  
+Designing functional, innovative consumer electronics and software solutions:  
+- From concept to production, ensuring optimized performance, user-centric features, and manufacturability.  
 
-- 📦 **Product Development:** Melding electronics with product casing designs in SketchUp for holistic solutions..
+### 🚀 **Innovation & Engineering**  
+From fingerprint-powered locking systems to networked systems crunching data for analytics, I embrace challenges that shape the future. Let's build solutions that inspire.  
 
-- **🖥️📲 Software Development**: Python, C#, ProcessingIDE, MITAI, Java, Kotlin, & Dart.
-  - **🖥️ Desktop Applications**:  Crafting robust, user-friendly applications to enhance productivity and solve complex problems. 
-  - **📲 Mobile Applications**:   Building intuitive, feature-rich apps that deliver seamless user experiences on the go.
- 
-- 🔌 **Engineering Consumer Electronics Products:**
-    - Designing functional, innovative consumer electronics, from concept to production.
-    - Ensuring optimized performance, user-centric features, and manufacturability.
-    
-- 🎮 **Simulations:** Bringing circuits to life in virtual worlds using tools like Proteus.
+---  
 
-- 🚀 **Innovation:** From locking systems powered by fingerprints to networked systems crunching data, I embrace challenges that shape the future.
 
 
 ## 🌟 Career Profile
-- Certified Arduino Programmer (Arduino CC, Italy) [Verify Certificate](https://certifications.arduino.cc/certificate/8a62aade-ed14-486f-b801-875845a5f9aa)
-- On-Call Software Engineer- BRINT Industrial Development Corporation (2024)
-- Tech-Lead and FounderPROFtech Consumer Electronics (2023)
+- Certified Arduino Programmer (Arduino CC, Italy)| Certificate: [8a62aade-ed14-486f-b801-875845a5f9aa](https://certifications.arduino.cc/certificate/8a62aade-ed14-486f-b801-875845a5f9aa)
+- On-Call Software Engineer- [BRINT Industrial Development Corporation](https://www.facebook.com/brintidc) (2024)
+- Tech-Lead and Founder PROFtech Consumer Electronics (2023)
 - Embedded Systems Engineer- GER-PER Engineering (2019-2022)
 - Co-Founder- [SIRENA AI](https://www.facebook.com/Sirena.fb) (2021)
 - SHS Teacher- [Notre Dame of Kidapawan College](https://ndkc.edu.ph) (2021-2022)
@@ -342,9 +362,44 @@ Here are the IDEs and CAD software I use for my projects:
   - Sketchup
 
 <!-- Rates -->
-## Professional Rates
-- **Consumer Projects:** $15-$30/hr
-- **Industrial Projects:** $30-$80/hr
+### 🌟🌟🌟**Professional Rates**🌟🌟🌟
+---
+#### **1. Industrial Projects**  
+- **Description**: High-level projects for commercial or industrial use with strict performance, reliability, and compliance standards.  
+- **Rates**:  
+  - **Hourly**: PHP1,770–5,310 (approx. $30–$90)  
+  - **Project-Based**: Starting at PHP200,000 (approx. $3,570) (can scale to PHP 1M+ for extensive projects)  
+  - Examples:  
+    - Embedded systems for manufacturing equipment  
+    - BACnet or networked industrial systems  
+    - Multi-layer PCB design for mass production  
+
+#### **2. Consumer Projects**  
+- **Description**: Projects for personal use, small businesses, or non-industrial applications.  
+- **Rates**:  
+  - **Hourly**: PHP885–PHP1,770 (approx. $15–$30)  
+  - **Project-Based**: Starting at PHP50,000 (approx. $890) (depending on complexity)  
+  - Examples:  
+    - Mobile apps (e.g., small-scale POS, basic utilities)  
+    - Web development (e.g., portfolio sites, small e-commerce)  
+    - DIY embedded systems (e.g., home automation, IoT devices)  
+
+#### **3. Academe/Research Projects**  
+- **Description**: Projects for academic institutions, research studies, or educational purposes.  
+- **Rates**:  
+  - **Hourly**: PHP295–P885 (approx. $5–$15)  
+  - **Project-Based**: Starting at PHP30,000 (approx. $535) (depending on depth and duration)  
+  - Examples:  
+    - Educational software and simulators  
+    - Embedded systems for thesis/research  
+    - Web or desktop apps for academic tools  
+
+### **Additional Notes**  
+- **Rush Fees**: 25–50% surcharge for urgent deadlines.
+- **Mobilzation Fee**: 2.5% of the proposed project cost (deductible from the project fee if the client proceeds).
+- **Consultation Fee**: minimum of PHP5,000 (approx. $89) for partial designs/schematics/testcodes, etc. (deductible from the project fee if the client proceeds).
+<!--- **Retainers**: Available for long-term industrial or academic collaborations, starting at PHP150,000/month (approx. $2,680).  -->
+---
 
 
 ## Achievements 🏆🥇🥈🥉
