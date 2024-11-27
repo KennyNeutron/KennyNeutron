@@ -204,22 +204,22 @@
     <img src="src/FlowcodeLogo.png" alt="flowcode" width="35" height="35"/>
   </a>
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png" alt="mplabXIDE" width="35" height="35"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xide_logo.png" alt="mplabXIDE" width="35" height="35"/>
   </a>
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers" target="_blank" rel="noreferrer">
-    <img src="https://www.microchip.com/content/dam/mchp/mrt-dam/logos/other/MPLAB-XC-COMPILER-Transparent-Background.png" alt="mplabXCcompiler" width="35" height="35"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xccompiler_logo.png" alt="mplabXCcompiler" width="35" height="35"/>
   </a>
   <a href="https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator" target="_blank" rel="noreferrer">
-    <img src="https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator/_jcr_content/root/responsivegrid/container/isolatedimage_copy/image.coreimg.png/1727124201484/mplab-code-configurator-transparent-background.png" alt="mplabCodeConfigurator" width="35" height="35"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_configurator_logo.png" alt="mplabCodeConfigurator" width="35" height="35"/>
   </a>
 </p>
 
 <p>
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
-    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png" alt="mplab" width="40" height="40"/>
+    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png" alt="mplab" width="35" height="35"/>
   </a>
   <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3374914" alt="kicad" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/3374914" alt="kicad" width="35" height="35"/>
   </a>
   <a href="http://eagle.autodesk.com" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/12681262/49792564-11f53780-fd59-11e8-8131-9b3e0f36164d.png" alt="eaglecad" width="35" height="35"/>
@@ -228,7 +228,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" alt="target3001" width="35" height="35"/>
   </a>
   <a href="https://www.labcenter.com" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="50" height="35"/>
+    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="35" />
   </a>
   <a href="https://fritzing.org" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="fritzing" width="35" height="35"/>
@@ -236,6 +236,10 @@
   <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="35" height="35"/>
   </a>
+  <a href="https://www.autodesk.com/asean/products/fusion-360" target="_blank" rel="noreferrer">
+    <img src="" alt="fusion360" width="35" height="35"/>
+  </a>
+  
 </p>
 
 
