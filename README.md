@@ -180,7 +180,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git" width="35" height="35"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/github_logo.png" alt="github" width="35" height="35"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35"/>
