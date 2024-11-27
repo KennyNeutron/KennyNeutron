@@ -168,7 +168,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino2ide" width="35" height="35"/>
   </a>
   <a href="https://atom-editor.cc" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="35" height="35"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/atom_logo.png" alt="atom" width="35" height="35"/>
   </a>
   <a href="https://www.sublimetext.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetexr" width="35" height="35"/>
