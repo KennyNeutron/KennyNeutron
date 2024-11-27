@@ -201,7 +201,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="35" height="35"/>
   </a>
   <a href="https://www.flowcode.co.uk" target="_blank" rel="noreferrer">
-    <img src="https://www.flowcode.co.uk/images/fc-v10-mainlogo-02.png" alt="flowcode" width="155" height="30"/>
+    <img src="src/FlowcodeLogo.png" alt="flowcode" width="35" height="35"/>
+  </a>
+  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png" alt="mplabXIDE" width="35" height="35"/>
+  </a>
+  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers" target="_blank" rel="noreferrer">
+    <img src="https://www.microchip.com/content/dam/mchp/mrt-dam/logos/other/MPLAB-XC-COMPILER-Transparent-Background.png" alt="mplabXCcompiler" width="35" height="35"/>
+  </a>
+  <a href="https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator" target="_blank" rel="noreferrer">
+    <img src="https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator/_jcr_content/root/responsivegrid/container/isolatedimage_copy/image.coreimg.png/1727124201484/mplab-code-configurator-transparent-background.png" alt="mplabCodeConfigurator" width="35" height="35"/>
   </a>
 </p>
 
