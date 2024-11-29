@@ -362,8 +362,9 @@ Here are the IDEs and CAD software I use for my projects:
   - Sketchup
 
 <!-- Rates -->
-### 🌟🌟🌟**Professional Rates**🌟🌟🌟
 ---
+### 🌟🌟🌟**Professional Rates**🌟🌟🌟
+
 #### **1. Industrial Projects**  
 - **Description**: High-level projects for commercial or industrial use with strict performance, reliability, and compliance standards.  
 - **Rates**:  
