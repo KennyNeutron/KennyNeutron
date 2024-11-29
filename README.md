@@ -138,7 +138,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="35" height="35"/>
   </a>
   <a href="https://www.apple.com/ph/macos/macos-sequoia/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Mac" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Mac" width="30" height="35"/>
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
