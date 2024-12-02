@@ -261,7 +261,7 @@
 Click any of the following to connect with me
 <p>
   <a href="mailto:kennyneutron.hex@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail" width="30" height="27" style="margin-right: 15px; vertical-align: middle;"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail" width="30" height="30" style="margin-right: 15px; vertical-align: middle;"/>
   </a>
 
   <a href="https://www.facebook.com/kennyneutron2" target="_blank">
