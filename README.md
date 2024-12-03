@@ -19,11 +19,23 @@
   </a>
 </p>
 
+<a href="https://github.com/KennyNeutron/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/KennyNeutron/github-profile-trophy">
+  <img width=400 src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=4&row=2&theme=radical"/>
+</a>
 
+<div style="width: 500px; display: flex; flex-direction: column; align-items: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="400px" height="200px" />
+</div>
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical" width="400px" height="200px" />
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical" width="400px" />
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
-
-<h3 align="left">Languages and Tools:</h3>
+-->
+<h2 align="left">🛠️Languages, Tools, and Frameworks I Use</h2>
 
 <p align="left">
   <a href="https://onecompiler.com/assembly" target="_blank" rel="noreferrer">
@@ -242,7 +254,7 @@
   
 </p>
 
-
+<!--
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1; max-width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennyNeutron&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages by KennyNeutron" style="width: 50%; max-width: 400px;" />
@@ -253,8 +265,8 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=dark" alt="GitHub Streak Stats by KennyNeutron" style="width: 50%; max-width: 800px;" /></p>
+-->
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com" /></p>
 <!-- Connect with Me -->
 
 ## Connect with Me ✉️
@@ -281,10 +293,6 @@ Click any of the following to connect with me
   </a>
 </p>
 
-
-<!--
-Let's connect via [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kennyneutron.hex@gmail.com) and [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/kennyneutron2) to stay updated!
--->
 
 <!-- What I Do -->
 ---
@@ -428,15 +436,7 @@ Here are the IDEs and CAD software I use for my projects:
 - **1st Placer-** School Level Science Fair for Applied Science Research (2011, 2012, 2013)  
 - **Researcher of the Year** (2011, 2012, 2013)
 
-<!-- About Me 
-## About Me 🧠
-- 🛠️ Inventor Extraordinaire
-- 💼 Founder of PROFtech
-- 🎓 Bachelor of Science in Electronics Engineering
-<p align="center">
-  <img width="950" src="KennyNeutronProfile.jpg" alt="Kenny Neutron">
-</p>
--->
+
 
 <!-- My Journey -->
 ## My Journey 🚀
