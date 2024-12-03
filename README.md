@@ -21,16 +21,16 @@
 
 <a href="https://github.com/KennyNeutron/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/KennyNeutron/github-profile-trophy">
-  <img width=400 src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=4&row=2&theme=radical"/>
+  <img width=390 src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=4&row=2&theme=radical"/>
 </a>
 
-<div style="width: 500px; display: flex; flex-direction: column; align-items: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="400px" height="200px" />
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="390" />
 </div>
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical" width="400px" height="200px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical" width="390" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical" width="390" />
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
