@@ -39,217 +39,217 @@
 
 <div align="left">
   <a href="https://onecompiler.com/assembly" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="asm" width="40" />
+    <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="asm" width="38" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="38" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="38" />
   </a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="38" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="38" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="38" />
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="java" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="java" width="38" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="38"/>
   </a>
 </div>
 
 <div align="left">
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="38"/>
   </a>
   <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="38" />
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="38"/>
   </a>
   <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="38" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="38" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="38" />
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="json" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="json" width="38"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="38" />
   </a>
 </div>
 
 <p align="left">
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="38"/>
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongoDB" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongoDB" width="38"/>
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mySQL" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mySQL" width="38"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="38"/>
   </a>
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="38"/>
   </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="38"/>
   </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-      <img src="src/FlaskLogo.png" alt="Flask" width="40"/>
+      <img src="src/FlaskLogo.png" alt="Flask" width="38"/>
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastAPI" width="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastAPI" width="38"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="38"/>
   </a>
   <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" width="38"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="38"/>
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="38"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="38"/>
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="38"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="38"/>
   </a>
   <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.scorchsoft.com/public/capabilities/head/react-native-logo-square.webp" alt="ReactNative" width="40"/>
+  <img src="https://www.scorchsoft.com/public/capabilities/head/react-native-logo-square.webp" alt="ReactNative" width="38"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="38"/>
   </a>
   <a href="https://www.apple.com/ph/macos/macos-sequoia/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Mac" width="30" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Mac" width="38" />
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="38"/>
   </a>
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="38"/>
   </a>
   <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kalilinux" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kalilinux" width="38"/>
   </a>
   <a href="https://archlinux.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="38"/>
   </a>
   <a href="https://www.debian.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" width="38"/>
   </a>
   <a href="https://www.raspbian.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-plain.svg" alt="raspbian" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-plain.svg" alt="raspbian" width="38"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="38"/>
   </a>
   <a href="https://docs.arduino.cc/software/ide/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino2ide" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino2ide" width="38"/>
   </a>
   <a href="https://atom-editor.cc" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/atom_logo.png" alt="atom" width="40"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/atom_logo.png" alt="atom" width="38"/>
   </a>
   <a href="https://www.sublimetext.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetexr" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetexr" width="38"/>
   </a>
   <a href="https://processing.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="38"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/github_logo.png" alt="github" width="40"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/github_logo.png" alt="github" width="38"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="38"/>
   </a>
 </p>
 
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38"/>
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="38"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="38"/>
   </a>
   <a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="38"/>
   </a>
   <a href="https://www.flowcode.co.uk" target="_blank" rel="noreferrer">
-    <img src="src/FlowcodeLogo.png" alt="flowcode" width="40"/>
+    <img src="src/FlowcodeLogo.png" alt="flowcode" width="38"/>
   </a>
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xide_logo.png" alt="mplabXIDE" width="40"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xide_logo.png" alt="mplabXIDE" width="38"/>
   </a>
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xccompiler_logo.png" alt="mplabXCcompiler" width="40"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xccompiler_logo.png" alt="mplabXCcompiler" width="38"/>
   </a>
   <a href="https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_configurator_logo.png" alt="mplabCodeConfigurator" width="40"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_configurator_logo.png" alt="mplabCodeConfigurator" width="38"/>
   </a>
 </p>
 
 <p>
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
-    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png" alt="mplab" width="40"/>
+    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png" alt="mplab" width="38"/>
   </a>
   <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3374914" alt="kicad" width="40"/>
+    <img src="https://avatars.githubusercontent.com/u/3374914" alt="kicad" width="38"/>
   </a>
   <a href="http://eagle.autodesk.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/12681262/49792564-11f53780-fd59-11e8-8131-9b3e0f36164d.png" alt="eaglecad" width="40"/>
+    <img src="https://user-images.githubusercontent.com/12681262/49792564-11f53780-fd59-11e8-8131-9b3e0f36164d.png" alt="eaglecad" width="38"/>
   </a>
   <a href="https://ibfriedrich.com/en/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" alt="target3001" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" alt="target3001" width="38"/>
   </a>
   <a href="https://www.labcenter.com" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="35" />
+    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="38" />
   </a>
   <a href="https://fritzing.org" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="fritzing" width="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="fritzing" width="38"/>
   </a>
   <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="40"/>
+    <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="38"/>
   </a>
   <a href="https://www.autodesk.com/asean/products/fusion-360" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/autodesk_logo.png" alt="fusion360" width="40"/>
+    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/autodesk_logo.png" alt="fusion360" width="38"/>
   </a>
   
 </p>
