@@ -9,10 +9,11 @@
 </p>
 -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
+<!--
 <p align="left">
   <img width="880" src="src/Banner.jpg" alt="Kenny Neutron">
 </p>
-
+-->
 <p align="left">
   <a href="https://github.com/KennyNeutron/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Embedded%20Systems%20Developer;PCB%20Designer%20and%20Developer;13%2B%20years%20of%20developer%20experience;Innovating%20and%20pushing%20boundaries&font=Fira%20Code&align=left&width=600&height=45&color=00ff00&vCenter=false&pause=1000&size=22" />
