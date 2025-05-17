@@ -13,25 +13,29 @@
 <p align="left">
   <img width="880" src="src/Banner.jpg" alt="Kenny Neutron">
 </p>
--->
+
 <p align="left">
   <a href="https://github.com/KennyNeutron/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Embedded%20Systems%20Developer;PCB%20Designer%20and%20Developer;13%2B%20years%20of%20developer%20experience;Innovating%20and%20pushing%20boundaries&font=Fira%20Code&align=left&width=600&height=45&color=00ff00&vCenter=false&pause=1000&size=22" />
   </a>
 </p>
 
-<a href="https://github.com/KennyNeutron/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+-->
+
+<a href="https://github.com/KennyNeutron/github-profile-trophy"><h2>🏆GitHub Profile Trophies🏆</h2></a>
 <a href="https://github.com/KennyNeutron/github-profile-trophy">
 <img width=390 src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=4&row=2&theme=radical"/>
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical" width="390" />
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="390" />
 </div>
+
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical" width="390" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical" width="390" />
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
