@@ -38,7 +38,7 @@
             <!-- Stars, commits, PRs, issues -->
       <img
         src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical"
-        width="300"
+        width="500"
         alt="GitHub Stats"
       />
          </div>
