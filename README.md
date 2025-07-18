@@ -1,57 +1,54 @@
 <!-- Header -->
-<!--
-<h2 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h2>
+<h1 align="center">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h2>
 
-<p align="center">
-  <samp>Hello there! I'm Kenny Neutron, an inventor, entrepreneur, and passionate advocate for innovation.</samp>
-  <br>
-  <samp>Let's explore the world of technology together!</samp>
-</p>
--->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
-<h1 align="center" style="
-  font-family: 'Fira Code', monospace; 
-  font-weight: 900; 
-  font-size: 56px; 
-  color: #facc15;
-  text-shadow:
-    0 0 8px #facc15,
-    0 0 20px #fbbf24,
-    0 0 30px #fbbf24,
-    0 0 40px #facc15,
-    0 0 60px #facc15;
-  ">
-  <b>Kenny Neutron</b>
-</h1>
-<p align="left">
-  <img width="880" src="src/Banner.jpg" alt="Kenny Neutron">
-</p>
-
-<p align="left">
-  <a href="https://github.com/KennyNeutron/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Tech%20Developer;Embedded%20Systems%20Developer;PCB%20Designer%20and%20Developer;10%2B%20years%20of%20developer%20experience;Innovating%20and%20pushing%20boundaries&font=Fira%20Code&align=left&width=600&height=45&color=00ff00&vCenter=false&pause=1000&size=22" />
+<!-- GitHub Profile Trophies -->
+<div align="center">
+  <a href="https://github.com/KennyNeutron/github-profile-trophy">
+    <h2>🏆 GitHub Profile Trophies 🏆</h2>
+    <!-- one row of 8 trophies to halve the height -->
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=8&row=1&theme=radical"
+      width="600"
+      alt="GitHub Trophy Stats"
+    />
   </a>
-</p>
-
-<a href="https://github.com/KennyNeutron/github-profile-trophy"><h2>🏆GitHub Profile Trophies🏆</h2></a>
-<a href="https://github.com/KennyNeutron/github-profile-trophy">
-<img width=390 src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=4&row=2&theme=radical"/>
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical" width="390" />
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="390" />
 </div>
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical" width="390" />
-</div>
+<!-- All other stats in a single row -->
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <!-- Most used langs -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical"
+        width="300"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <!-- Contributions / streak -->
+    <div>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical"
+        width="300"
+        alt="GitHub Streak"
+      />
+      </div>
+      <div>
+            <!-- Stars, commits, PRs, issues -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical"
+        width="300"
+        alt="GitHub Stats"
+      />
+         </div>
+    </td>
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
--->
-<h2 align="left">🛠️Languages, Tools, Frameworks, and IDEs I Use</h2>
+  </tr>
+</table>
+
+<div style="clear: both;"></div>
+<h1 align="left">🛠️Languages, Tools, Frameworks, and IDEs I Use</h1>
 
 ###### 🤖 Embedded Systems
 <p align="left">
