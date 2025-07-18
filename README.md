@@ -9,18 +9,29 @@
 </p>
 -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron)](https://github.com/KennyNeutron/github-profile-trophy) -->
-<!--
+<h1 align="center" style="
+  font-family: 'Fira Code', monospace; 
+  font-weight: 900; 
+  font-size: 56px; 
+  color: #facc15;
+  text-shadow:
+    0 0 8px #facc15,
+    0 0 20px #fbbf24,
+    0 0 30px #fbbf24,
+    0 0 40px #facc15,
+    0 0 60px #facc15;
+  ">
+  <b>Kenny Neutron</b>
+</h1>
 <p align="left">
   <img width="880" src="src/Banner.jpg" alt="Kenny Neutron">
 </p>
 
 <p align="left">
   <a href="https://github.com/KennyNeutron/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Embedded%20Systems%20Developer;PCB%20Designer%20and%20Developer;13%2B%20years%20of%20developer%20experience;Innovating%20and%20pushing%20boundaries&font=Fira%20Code&align=left&width=600&height=45&color=00ff00&vCenter=false&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Tech%20Developer;Embedded%20Systems%20Developer;PCB%20Designer%20and%20Developer;10%2B%20years%20of%20developer%20experience;Innovating%20and%20pushing%20boundaries&font=Fira%20Code&align=left&width=600&height=45&color=00ff00&vCenter=false&pause=1000&size=22" />
   </a>
 </p>
-
--->
 
 <a href="https://github.com/KennyNeutron/github-profile-trophy"><h2>🏆GitHub Profile Trophies🏆</h2></a>
 <a href="https://github.com/KennyNeutron/github-profile-trophy">
@@ -40,237 +51,103 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=KennyNeutron&theme=darkhub)](https://github.com/KennyNeutron/github-profile-trophy)
 -->
-<h2 align="left">🛠️Languages, Tools, and Frameworks I Use</h2>
+<h2 align="left">🛠️Languages, Tools, Frameworks, and IDEs I Use</h2>
 
-<div align="left">
-  <a href="https://onecompiler.com/assembly" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="asm" width="38" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="38" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="38" />
-  </a>
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="38" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="38" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="38" />
-  </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="java" width="38" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="38"/>
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="38"/>
-  </a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="38" />
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="38"/>
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="38" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="38" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="38" />
-  </a>
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="json" width="38"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="38" />
-  </a>
-</div>
-
+###### 🤖 Embedded Systems
 <p align="left">
-  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="38"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongoDB" width="38"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mySQL" width="38"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="38"/>
-  </a>
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="38"/>
-  </a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="38"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-      <img src="src/FlaskLogo.png" alt="Flask" width="38"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastAPI" width="38"/>
-  </a>
+   <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white" alt="micropython"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="arduino"/>
+  <img src="https://img.shields.io/badge/ESPressif-E7352C?style=flat&logo=espressif&logoColor=white" alt="espressif"/>
+  <img src="https://img.shields.io/badge/STMicroElectronics-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="stmicroelectronics"/>
+  <img src="https://img.shields.io/badge/NordicSemiConductor-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white" alt="nordicsemiconductor"/>
 </p>
 
+###### 📱 Mobile
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="38"/>
-  </a>
-  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" width="38"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="38"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="38"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="38"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="38"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="38"/>
-  </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.scorchsoft.com/public/capabilities/head/react-native-logo-square.webp" alt="ReactNative" width="38"/>
-  </a>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="android"/>
+  <img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=ios&logoColor=white" alt="ios"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="androidstudio"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin"/>
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white" alt="xml"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white" alt="reactnative"/>
+  <img src="https://img.shields.io/badge/Expo-1C2024?style=flat&logo=expo&logoColor=white" alt="expo"/>
 </p>
 
+###### 🌐Web
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" width="38"/>
-  </a>
-  <a href="https://www.apple.com/ph/macos/macos-sequoia/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Mac" width="38" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="38"/>
-  </a>
-  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="38"/>
-  </a>
-  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kalilinux" width="38"/>
-  </a>
-  <a href="https://archlinux.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="38"/>
-  </a>
-  <a href="https://www.debian.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" alt="debian" width="38"/>
-  </a>
-  <a href="https://www.raspbian.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-plain.svg" alt="raspbian" width="38"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="react"/>
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=nextjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/NodeJS-5FA04E?style=flat&logo=nodejs&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/TailWindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="tailwindcss"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" alt="firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="supabase"/>
 </p>
 
+###### 💻Desktop
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="38"/>
-  </a>
-  <a href="https://docs.arduino.cc/software/ide/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino2ide" width="38"/>
-  </a>
-  <a href="https://atom-editor.cc" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/atom_logo.png" alt="atom" width="38"/>
-  </a>
-  <a href="https://www.sublimetext.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetexr" width="38"/>
-  </a>
-  <a href="https://processing.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="38"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/github_logo.png" alt="github" width="38"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="38"/>
-  </a>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="electron"/>
+  <img src="https://img.shields.io/badge/Python-python?style=flat&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/ProcessingIDE-006699?style=flat&logo=processing&logoColor=white" alt="processing"/>
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white" alt="tauri"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="rust"/>
+  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
 </p>
 
-<p>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="38"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="38"/>
-  </a>
-  <a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="38"/>
-  </a>
-  <a href="https://www.flowcode.co.uk" target="_blank" rel="noreferrer">
-    <img src="src/FlowcodeLogo.png" alt="flowcode" width="38"/>
-  </a>
-  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xide_logo.png" alt="mplabXIDE" width="38"/>
-  </a>
-  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_xccompiler_logo.png" alt="mplabXCcompiler" width="38"/>
-  </a>
-  <a href="https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/mplab_configurator_logo.png" alt="mplabCodeConfigurator" width="38"/>
-  </a>
+###### 🎮Games
+<p align="left">
+  <img src="https://img.shields.io/badge/UnityEngine-ffffff?style=flat&logo=unity&logoColor=black" alt="unity"/>
+  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="unrealengine"/>
+  <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=flat&logo=godotengine&logoColor=white" alt="godotengine"/>
+  <img src="https://img.shields.io/badge/CSharp-7952B3?style=flat&logo=&logoColor=white" alt="c#"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=&logoColor=white" alt="gdscript"/>
+  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
 </p>
 
-<p>
-  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
-    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png" alt="mplab" width="38"/>
-  </a>
-  <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3374914" alt="kicad" width="38"/>
-  </a>
-  <a href="http://eagle.autodesk.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/12681262/49792564-11f53780-fd59-11e8-8131-9b3e0f36164d.png" alt="eaglecad" width="38"/>
-  </a>
-  <a href="https://ibfriedrich.com/en/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" alt="target3001" width="38"/>
-  </a>
-  <a href="https://www.labcenter.com" target="_blank" rel="noreferrer">
-    <img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/proteus.png" alt="proteus" width="38" />
-  </a>
-  <a href="https://fritzing.org" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="fritzing" width="38"/>
-  </a>
-  <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="38"/>
-  </a>
-  <a href="https://www.autodesk.com/asean/products/fusion-360" target="_blank" rel="noreferrer">
-    <img src="https://github.com/KennyNeutron/KennyNeutron/blob/main/src/autodesk_logo.png" alt="fusion360" width="38"/>
-  </a>
-  
+###### 🦑Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="gitkraken"/>
 </p>
 
-<!--
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; max-width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennyNeutron&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages by KennyNeutron" style="width: 50%; max-width: 400px;" />
-    </div>
-    <div style="flex: 1; max-width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&show_icons=true&locale=en&theme=dark" alt="GitHub Stats by KennyNeutron" style="width: 50%; max-width: 400px;" />
-    </div>
-</div>
+###### 💿Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" alt="macos"/>
+  <img src="https://img.shields.io/badge/Windows-0854C1?style=flat&logo=&logoColor=white" alt="windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="raspberrypi"/>
+  <img src="https://img.shields.io/badge/Kali-557C94?style=flat&logo=kalilinux&logoColor=white" alt="kalilinux"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="debian"/>
+  <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="archlinux"/>
+  <img src="https://img.shields.io/badge/LinuxMint-86BE43?style=flat&logo=linuxmint&logoColor=white" alt="linuxmint"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=dark" alt="GitHub Streak Stats by KennyNeutron" style="width: 50%; max-width: 800px;" /></p>
--->
+###### 📐CADs
+<p align="left">
+  <img src="https://img.shields.io/badge/EagleCAD-0072EF?style=flat&logo=eagle&logoColor=white" alt="eagle"/>
+  <img src="https://img.shields.io/badge/KiCAD-14CB0?style=flat&logo=kicad&logoColor=white" alt="kicad"/>
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white" alt="sketchup"/>
+  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat&logo=proteus&logoColor=white" alt="proteus"/>
+  <img src="https://img.shields.io/badge/TinkerCAD-1477D1?style=flat&logo=tinkercad&logoColor=white" alt="tinkercad"/>
+  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
+</p>
 
 <!-- Connect with Me -->
 
