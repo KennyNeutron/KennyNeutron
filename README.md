@@ -1,13 +1,13 @@
 <!-- Header -->
-<h1 align="left">🚀   Welcome to Kenny Neutron's GitHub Profile!   🚀</h2>
+<h1 align="left">Welcome to Kenny Neutron's GitHub Profile!</h2>
 
 <!-- GitHub Profile Trophies -->
 <div align="left">
   <a href="https://github.com/KennyNeutron/github-profile-trophy" style="text-decoration: none;">
-    <h2>🏆 GitHub Profile Trophies 🏆</h2>
+    <h2>GitHub Profile Trophies 🏆</h2>
     <!-- one row of 8 trophies to halve the height -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=8&row=1&theme=transparent"
+      src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=8&row=1&theme=radical"
       width="1000"
       alt="GitHub Trophy Stats"
     />
@@ -20,7 +20,7 @@
     <td>
       <!-- Most used langs -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical"
         width="500"
         alt="Top Languages"
       />
@@ -29,7 +29,7 @@
       <!-- Contributions / streak -->
     <div>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=transparent"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical"
         width="500"
         alt="GitHub Streak"
       />
@@ -37,7 +37,7 @@
       <div>
             <!-- Stars, commits, PRs, issues -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical"
         width="500"
         alt="GitHub Stats"
       />
