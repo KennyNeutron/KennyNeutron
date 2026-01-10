@@ -7,7 +7,7 @@
     <h2>GitHub Profile Trophies 🏆</h2>
     <!-- one row of 8 trophies to halve the height -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=KennyNeutron&column=8&row=1&theme=radical"
+      src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KennyNeutron&column=8&row=1&theme=onestar"
       width="1000"
       alt="GitHub Trophy Stats"
     />
@@ -20,7 +20,7 @@
     <td>
       <!-- Most used langs -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=20&layout=compact&theme=radical"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KennyNeutron&langs_count=30&layout=compact&theme=highcontrast"
         width="500"
         alt="Top Languages"
       />
@@ -29,7 +29,7 @@
       <!-- Contributions / streak -->
     <div>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=KennyNeutron&theme=radical"
+        src="https://github-readme-streak-stats-vijaypur.vercel.app?user=KennyNeutron&theme=highcontrast&&card_width=495&card_height=200&border_radius=6"
         width="500"
         alt="GitHub Streak"
       />
@@ -37,7 +37,7 @@
       <div>
             <!-- Stars, commits, PRs, issues -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=radical"
+        src="https://github-readme-stats-fast.vercel.app/api?username=KennyNeutron&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast"
         width="500"
         alt="GitHub Stats"
       />
