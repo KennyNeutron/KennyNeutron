@@ -96,11 +96,13 @@
 ###### 💻Desktop
 <p align="left">
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="electron"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="react"/>
   <img src="https://img.shields.io/badge/Python-python?style=flat&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/ProcessingIDE-006699?style=flat&logo=processing&logoColor=white" alt="processing"/>
   <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white" alt="tauri"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="rust"/>
-  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
 </p>
 
 ###### 🎮Games
@@ -110,9 +112,6 @@
   <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=flat&logo=godotengine&logoColor=white" alt="godotengine"/>
   <img src="https://img.shields.io/badge/CSharp-7952B3?style=flat&logo=&logoColor=white" alt="c#"/>
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=&logoColor=white" alt="gdscript"/>
-  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
 </p>
 
 ###### 🦑Version Control
@@ -142,8 +141,6 @@
   <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white" alt="sketchup"/>
   <img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat&logo=proteus&logoColor=white" alt="proteus"/>
   <img src="https://img.shields.io/badge/TinkerCAD-1477D1?style=flat&logo=tinkercad&logoColor=white" alt="tinkercad"/>
-  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white" alt=""/>
 </p>
 
 <!-- Connect with Me -->
