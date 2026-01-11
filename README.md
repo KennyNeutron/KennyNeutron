@@ -29,7 +29,7 @@
       <!-- Contributions / streak -->
     <div>
       <img
-        src="https://github-readme-streak-stats-vijaypur.vercel.app?user=KennyNeutron&theme=highcontrast&&card_width=495&card_height=200&border_radius=6"
+        src="https://github-readme-streak-stats-vijaypur.vercel.app?user=KennyNeutron&theme=highcontrast&card_width=495&card_height=200&border_radius=6"
         width="500"
         alt="GitHub Streak"
       />
