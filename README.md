@@ -4,7 +4,7 @@
 <!-- GitHub Profile Trophies -->
 <div align="left">
   <a href="https://github.com/KennyNeutron/github-profile-trophy" style="text-decoration: none;">
-    <h2>GitHub Profile Trophies 🏆</h2>
+    <h2>GitHub Profile Trophies </h2>
     <!-- one row of 8 trophies to halve the height -->
     <img
       src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KennyNeutron&column=8&row=1&theme=onestar"
@@ -48,9 +48,9 @@
 </table>
 
 <div style="clear: both;"></div>
-<h1 align="left">🛠️Languages, Tools, Frameworks, and IDEs I Use</h1>
+<h1 align="left">Languages, Tools, Frameworks, and IDEs I Use</h1>
 
-###### 🤖 Embedded Systems
+###### Embedded Systems
 <p align="left">
    <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/NordicSemiConductor-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white" alt="nordicsemiconductor"/>
 </p>
 
-###### 📱 Mobile
+###### Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="android"/>
   <img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=ios&logoColor=white" alt="ios"/>
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="supabase"/>
 </p>
 
-###### 💻Desktop
+###### Desktop
 <p align="left">
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="electron"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="rust"/>
 </p>
 
-###### 🎮Games
+###### Games
 <p align="left">
   <img src="https://img.shields.io/badge/UnityEngine-ffffff?style=flat&logo=unity&logoColor=black" alt="unity"/>
   <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="unrealengine"/>
@@ -114,14 +114,14 @@
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=&logoColor=white" alt="gdscript"/>
 </p>
 
-###### 🦑Version Control
+###### Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="gitkraken"/>
 </p>
 
-###### 💿Operating Systems
+###### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" alt="macos"/>
   <img src="https://img.shields.io/badge/Windows-0854C1?style=flat&logo=&logoColor=white" alt="windows"/>
@@ -134,7 +134,7 @@
   <img src="https://img.shields.io/badge/LinuxMint-86BE43?style=flat&logo=linuxmint&logoColor=white" alt="linuxmint"/>
 </p>
 
-###### 📐CADs
+###### CADs
 <p align="left">
   <img src="https://img.shields.io/badge/EagleCAD-0072EF?style=flat&logo=eagle&logoColor=white" alt="eagle"/>
   <img src="https://img.shields.io/badge/KiCAD-14CB0?style=flat&logo=kicad&logoColor=white" alt="kicad"/>
@@ -145,7 +145,7 @@
 
 <!-- Connect with Me -->
 
-## Connect with Me ✉️
+## Connect with Me
 
 Click any of the following to connect with me
 
@@ -173,7 +173,7 @@ Click any of the following to connect with me
 
 ## <!-- What I Do -->
 
-🌟 **What I Do**  
+ **What I Do**  
 I transform ideas into reality through the art of embedded systems, software development, and web solutions. My expertise lies in:
 
 ### ⚙️ **Embedded Systems**
@@ -183,7 +183,7 @@ I transform ideas into reality through the art of embedded systems, software dev
 - **3D Design**: Merging electronics with product casing designs using SketchUp and Fusion360.
 - **Simulations**: Virtual prototyping with tools like Proteus to bring circuits to life.
 
-### 💻 **Software Development**
+### **Software Development**
 
 - **Desktop Applications**:
   - Crafting robust, user-friendly solutions using Python (PyQT), C#, and Processing (ProcessingIDE).
@@ -191,7 +191,7 @@ I transform ideas into reality through the art of embedded systems, software dev
   - Building intuitive apps with Flutter, Java, Kotlin, XML, Swift, and ReactNative.
   - Database integration with Firebase, MySQL, PostgreSQL, MongoDB, AWS DynamoDB, Couchbase, and MITAI WebDB.
 
-### 🌐 **Web Development**
+### **Web Development**
 
 - **Front-End Development**:
   - Core Technologies: HTML, CSS, JavaScript (JS), TypeScript.
@@ -208,19 +208,19 @@ I transform ideas into reality through the art of embedded systems, software dev
 - **Other Technologies**:
   - Oracle APEX for low-code applications.
 
-### 📦 **Product Development**
+### **Product Development**
 
 Designing functional, innovative consumer electronics and software solutions:
 
 - From concept to production, ensuring optimized performance, user-centric features, and manufacturability.
 
-### 🚀 **Innovation & Engineering**
+### **Innovation & Engineering**
 
 From fingerprint-powered locking systems to networked systems crunching data for analytics, I embrace challenges that shape the future. Let's build solutions that inspire.
 
 ---
 
-## 🌟 Career Profile
+## Career Profile
 
 - Certified Arduino Programmer (Arduino CC, Italy)| Certificate: [8a62aade-ed14-486f-b801-875845a5f9aa](https://certifications.arduino.cc/certificate/8a62aade-ed14-486f-b801-875845a5f9aa)
 - On-Call Software Engineer- [BRINT Industrial Development Corporation](https://www.facebook.com/brintidc) (2024)
@@ -229,7 +229,7 @@ From fingerprint-powered locking systems to networked systems crunching data for
 - Co-Founder- [SIRENA AI](https://www.facebook.com/Sirena.fb) (2021)
 - SHS Teacher- [Notre Dame of Kidapawan College](https://ndkc.edu.ph) (2021-2022)
 
-## 🎓 Education
+## Education
 
 - 2019 (Graduated) -BS Electronics Engineering
 - 2014 (Graduated) -High School(Special Science Curriculum)-Researcher of the Year
@@ -237,7 +237,7 @@ From fingerprint-powered locking systems to networked systems crunching data for
 
 <!-- IDEs and CAD Software I Use -->
 
-## IDEs and CAD Software I Use 💻🛠️
+## IDEs and CAD Software I Use
 
 Here are the IDEs and CAD software I use for my projects:
 
@@ -260,7 +260,7 @@ Here are the IDEs and CAD software I use for my projects:
 
 ## <!-- Rates -->
 
-### 🌟🌟🌟**Professional Rates**🌟🌟🌟
+### **Professional Rates**
 
 #### **1. Industrial Projects**
 
@@ -304,7 +304,7 @@ Here are the IDEs and CAD software I use for my projects:
 
 ---
 
-## Achievements 🏆🥇🥈🥉
+## Achievements
 
 **PROFESSIONAL:**
 
@@ -328,7 +328,7 @@ Here are the IDEs and CAD software I use for my projects:
 
 <!-- My Journey -->
 
-## My Journey 🚀
+## My Journey
 
 My journey as an inventor and entrepreneur has been marked by a relentless pursuit of innovation and a passion for pushing the boundaries of what's possible. From my early beginnings, I've always been driven by a curiosity to explore and create, leading me to craft innovative projects that have garnered recognition and acclaim.
 
