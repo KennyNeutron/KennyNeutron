@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Expo-1C2024?style=flat&logo=expo&logoColor=white" alt="expo"/>
 </p>
 
-###### 🌐Web
+###### Web
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" alt="css"/>
@@ -176,7 +176,7 @@ Click any of the following to connect with me
  **What I Do**  
 I transform ideas into reality through the art of embedded systems, software development, and web solutions. My expertise lies in:
 
-### ⚙️ **Embedded Systems**
+### **Embedded Systems**
 
 - **Hardware**: Breathing life into microcontrollers (PIC, Atmel, STM32, ESP32, Nordic SoCs) with precision and expertise in PCB design (1-20 layers) using tools like KiCad and Eagle.
 - **Firmware**: Programming in Assembly (ASM), C, C++, MicroPython, and GPL to craft seamless integrations of hardware and software.
@@ -355,7 +355,7 @@ Kenny Neutron's journey is not just a personal narrative but a testament to the 
 
 <!-- Let's Collaborate -->
 
-## Let's Collaborate 🤝
+## Let's Collaborate
 
 I'm always open to collaboration and new opportunities. Feel free to reach out!
 Let’s build something extraordinary together! ✨
